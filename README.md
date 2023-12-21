@@ -1,14 +1,14 @@
 # Duncan's Evo Gym
 
-Welcome to the TypeScript Gym! This project is hosted at [https://d6505744.gym-typescript-cgl.pages.dev/](https://github.com/DuncanMoyo/gym-typescript).
+Welcome to the Evolution Gym! This project is hosted at [https://d6505744.gym-typescript-cgl.pages.dev/](https://github.com/DuncanMoyo/gym-typescript).
 
 ## Overview
 
-TypeScript Gym is a collection of TypeScript exercises designed to help you improve your TypeScript skills. The exercises cover a wide range of topics and difficulty levels, making it suitable for both beginners and experienced developers.
+Evolution Gym is a collection of TypeScript exercises designed to help you improve your TypeScript skills. The exercises cover a wide range of topics and difficulty levels, making it suitable for both beginners and experienced developers.
 
 ## Getting Started
 
-To get started with TypeScript Gym, follow these steps:
+To get started with Evolution Gym, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/DuncanMoyo/gym-typescript.git`
 2. Navigate to the project directory: `cd gym-typescript`
